@@ -1,3 +1,1 @@
-# kolanexp
-KOLAN BİLŞİM DENİLEN SÜRTÜKLERİ 
-SANALDAN SİLME VAKTİ
+
